@@ -2,6 +2,4 @@ this is a test project
 
 this is branch1 
 
-submit branch1
-
-submit branch second
+submit branch test1 first
